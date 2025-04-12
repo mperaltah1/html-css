@@ -1,8 +1,6 @@
 body {
    background: #f7f7f7;
    font-family: Arial, Helvetica, sans-serif;
-   font-size: 16px;
-   color: #594F4F;
 }
 
 .container {
@@ -13,6 +11,7 @@ body {
    box-shadow: 0px 0px 30px 0px #999999;
 }
 
+/* Encabezado */
 header {
    background: #45ADA8;
     text-align: center;
