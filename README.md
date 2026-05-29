@@ -37,6 +37,8 @@ En esta guía se detallan los pasos a seguir para crear una página web para una
         </header>
         <nav>
         </nav>
+        <main>
+        </main>
         <footer>
         </footer>
     <div>
@@ -214,7 +216,7 @@ overflow: auto;
 
 </details><br>
 
-13. En `style.css` definiremos el estilo de los hipervínculos de nuestro menú, dandole una posición a la izquierda (`float: left;`) un color de texto `blanco`, quitamos la decoracion de los hipervínculos, para que no se muestren como subrayados (`text-decoration: none;`) y unos márgenes de 15px y 40px (`padding: 15px 40px;`)
+1.  En `style.css` definiremos el estilo de los hipervínculos de nuestro menú, dandole una posición a la izquierda (`float: left;`) un color de texto `blanco`, quitamos la decoracion de los hipervínculos, para que no se muestren como subrayados (`text-decoration: none;`) y uno padding de 15px y 40px (`padding: 15px 40px;`)
 
 <details>
 <summary style="color:blue;">Resultado esperado hasta el momento</summary>
